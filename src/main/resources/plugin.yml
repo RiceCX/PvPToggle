@@ -1,0 +1,8 @@
+name: PvPToggle
+main: cc.ricecx.pvptoggle.PvPToggle
+version: 1.0.0
+api-version: 1.13
+permissions:
+  "pvptoggle.bypass":
+    description: "Allows you to bypass the cooldown"
+    default: false
