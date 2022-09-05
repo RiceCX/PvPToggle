@@ -1,5 +1,7 @@
 name: PvPToggle
 main: cc.ricecx.pvptoggle.PvPToggle
+author: RiceCX
+website: https://ricecx.cc
 version: 1.0.0
 api-version: 1.13
 permissions:
